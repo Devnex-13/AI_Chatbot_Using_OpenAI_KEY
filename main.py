@@ -1,5 +1,7 @@
+import os
 from openai import OpenAI
-key = "Paste Your OpenAi API Key"
+
+key = "PASTE YOUR OPENAI API_KEY"
 
 messages = [] 
 
